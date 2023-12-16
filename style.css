@@ -126,3 +126,13 @@ footer {
     padding: 1em 0;
     margin-top: 34vh;
 }
+
+@media screen and (max-width: 700px) {
+    h1{
+        font-size: 1.5rem;
+    }
+
+    button a {
+        font-size: 1rem;
+    }
+}
