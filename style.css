@@ -129,17 +129,14 @@ footer {
 
 
 @media screen and (max-width: 400px) {
-    #portfolio {
-    font-size: 3rem;
-    }
 
-    button{
+    button a{
         border: 2px solid gray;
         background: none;
         color: var(--white-color);
         padding: 15px 30px 15px 30px;
         font-weight: bold;
-        font-size: 3rem;
+        font-size: 13rem;
         text-shadow: 2px 2px 4px black;
     }
 }
