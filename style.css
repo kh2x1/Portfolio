@@ -35,6 +35,7 @@ header {
     padding: 10px;
     text-align: center;
     font-weight: bold;
+    z-index: 99999;
 }
 
 a {
