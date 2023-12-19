@@ -27,12 +27,12 @@ header {
 
 #top a{
     position: fixed;
-    bottom: 0;
-    right: 4px;
+    bottom: 5px;
+    right: 7px;
     color: black;
     background-color: white;
-    width: 3%;
-    padding: 10px;
+    width: 1%;
+    padding: 5px;
     text-align: center;
     font-weight: bold;
     z-index: 99999;
