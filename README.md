@@ -1,0 +1,1 @@
+This portfolio is a comprehensive record of my continuous learning and growth. It highlights my acquired knowledge, skills, projects, and achievements, demonstrating my dedication to personal development.
